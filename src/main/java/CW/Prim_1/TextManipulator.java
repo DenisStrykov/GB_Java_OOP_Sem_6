@@ -27,7 +27,7 @@ public class TextManipulator {
     }
 
     public void printText() {
-        System.out.println(textManipulator.getText());
+        System.out.println(getText());
     }
 
 }
